@@ -26,7 +26,7 @@ Before, I participated in the re-platform of a Real Estate platform from PHP to 
 - DO 🇩🇴
 - Animal lover; specialy Cody 🐶 and Flor 🐱!
 - Love eat a good food and a good beer 🍻
-- I like cooking: now a day, I'm doing BBQ for my family and friends (I invited them in groups because I want to keep all away from the virus 🙏). My IG shows m [My IG shows my passion](https://www.instagram.com/iocedano/)
+- Love cooking, now a day, I'm doing BBQ for my family and friends (I invited them in groups because I want to keep all away from the virus 🙏). My IG shows m [My IG shows my passion](https://www.instagram.com/iocedano/)
 - Love hiking ⛰
 
 #### 📫 How to reach me:
