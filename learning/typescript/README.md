@@ -22,6 +22,32 @@ TS is not a vacine!
 [Options details](https://www.typescriptlang.org/tsconfig)
 
 
+### Important
+
+* **Narrowing**
+
+  https://www.typescriptlang.org/docs/handbook/2/narrowing.html
+  Validate the variable's operection types
+  
+  ** Type guard 
+
+* **Union and Intersection Types**
+https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html
+
+  **Union** | define that the value of variable could be of different types
+
+  **Discriminating Union** seems the value could be of different, we should have causion because could have different property too
+  A common technique for working with Union types is to have a single property that allows TS to **narrowing** types with the possible type
+
+  **Intersection** &  Allows combine multiple types into one!
+
+* **Type Alises**
+TBD
+
+* **Interfaces**
+TBD
+
+
 #### Notes:
 Using `any` as a type declaration a doable case is when the data source is unknown! (saw some projects that use it a lot).
 
